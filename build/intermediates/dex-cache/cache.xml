@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e35d99284d251c70eec392befd4712c7b2d4e4ec">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ec2f710bb601715deb5d8bc009e7c1f114ee16fa/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_e150a74abe5364162f8f83a5af12670dbfe01685/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_8ef660ef45f6e7ebc7b76f7e8577c6f2b6ada278/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_481495bf8eed38662a93dacf482687f0cc2d5cef/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_9209313429bedab2b677aeabd5c9be5d1648a2b7/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_1999879879edeec281a4a80acc50183746a8b7d5/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_1844c9e48ef24f68f7b67bf5b0e41b67060aeb77/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="46c93740455d324a3ff9754e7c2fd6b19bae0639">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3c66b839c4ab777bd76d0521c44a11e82e697f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_2a50e6363c3df56f5be1d78fa225d982be6f2d95/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_fb030f0740912f0a8f1051564f262c97a1711ab4/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_95c31af949f7b490ea72cfa0ebca6bb85a20a87f/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_97bf1ceeacedb581b259760b66bc205a18352125/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_c0fc23e54ac6a98a1f0866f501f4e6f0696caa8a/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_5b83b2d994db0ef74147ae50717a36b4553c2845/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f5efb9ba9413aaa618d338f974aecd67fb22c878/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_35a5696a28b937b6b3fe4fbabac2fb8338d7a976/classes.dex" />
+    </item>
+    <item
+        jar="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/alanjet/Android/AndroidApp/ImageCutandUploadTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_c42b4821d8a612deef3cb305c5da76fa129a87c4/classes.dex" />
+    </item>
+
+</items>
